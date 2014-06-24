@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>background_weathergod.png</file>
+        <file>12212.jpg</file>
+        <file>chufang.jpg</file>
+        <file>woshi.jpg</file>
+        <file>keting.png</file>
+        <file>jingbao.jpg</file>
+        <file>b1.jpg</file>
+        <file>2267807_180803075_2.jpg</file>
+        <file>2310993_092131041337_2.jpg</file>
+        <file>1348966782.1694587446.jpg</file>
+        <file>1106291534578206.jpg</file>
+        <file>2012052412255329.jpg</file>
+        <file>images.qrc</file>
+        <file>keting.jpg</file>
+        <file>door.png</file>
+        <file>1_110806115914_18.jpg</file>
+        <file>512ed54b0e7c404fa60b13503c889be3e0a3.jpg</file>
+        <file>u28911371712301632223fm56.jpg</file>
+        <file>40b1OOOPICbb.jpg</file>
+    </qresource>
+</RCC>
